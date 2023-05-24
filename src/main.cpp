@@ -10,6 +10,14 @@
 */
 #include <Arduino.h>
 
+// PINES de ENTRADA y SALIDA
+#define MOT_ENCENDIDO 2
+#define MOT_DIRECCION 12 // Cambiar éste y los siguientes para coincidir con microbit
+#define BOT_ENCENDIDO 8
+#define BOT_DIRECCION 9
+#define SERIE_TX 0
+#define SERIE_RX 1
+
 // put function declarations here:
 int myFunction(int, int);
 
