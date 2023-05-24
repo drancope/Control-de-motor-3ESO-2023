@@ -1,3 +1,13 @@
+/************ main.cpp
+ *  auth: Antonio Contreras
+ *  lic: copyleft
+*/
+
+/************  TAREAS POR EXPLORAR
+ *  1- Comprobar que se puede compilar en las dos plataformas
+ *  2- Añadir las bibliotecas para conexión serie
+ *  3- Configurar el ordenador con un programa de comunicación serie que conecte al mqtt
+*/
 #include <Arduino.h>
 
 // put function declarations here:
