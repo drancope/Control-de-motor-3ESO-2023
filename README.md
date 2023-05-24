@@ -8,4 +8,4 @@ Este repositorio está destinado a controlarse en grupo. Se pide que cada uno tr
   
 ## Monitorización de uso del repositorio:
 
-[Panel de Visualización](https://drancope.github.io/Control-de-motor-3ESO-2023/embed.html)
+[Panel de Visualización](https://drancope.github.io/ontrol-de-motor-3ESO-2023/embed.html)
