@@ -23,6 +23,11 @@ int myFunction(int, int);
 
 void setup() {
   // put your setup code here, to run once:
+  pinMode(MOT_ENCENDIDO, OUTPUT);
+  pinMode(MOT_DIRECCION, OUTPUT);
+  pinMode(BOT_ENCENDIDO, INPUT_PULLUP);
+  pinModE(BOT_DIRECCION), INPUT_PULLUP);
+
   int result = myFunction(2, 3);
 }
 
